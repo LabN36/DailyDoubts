@@ -1,3 +1,3 @@
 # What/How/Why of my mind 
 ### test
-After dataAfter dataAfter data
+After dataAfter dataAfter dataAfter data
